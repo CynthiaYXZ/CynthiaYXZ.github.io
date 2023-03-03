@@ -10,11 +10,11 @@ In case you wonder my name is Cynthia and YXZ is abbreviation from my chinese na
 ### So let's Begin! 🚀
 #### 🏫 Education 🏫
 #### Tunghai University, Taichung, Taiwan	                2022– Present
-    > Master of Global Busines Administration School of Business and Management
+> Master of Global Busines Administration School of Business and Management
 
 #### University of Surabaya, Surabaya, Indonesia 	                2014 – 2018
-    > Bachelor of Management, Marketing Major
-    GPA: 3.58/4.00
+> Bachelor of Management, Marketing Major
+GPA: 3.58/4.00
 
 
 
