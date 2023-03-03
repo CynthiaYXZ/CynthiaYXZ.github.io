@@ -16,6 +16,8 @@ In case you wonder my name is Cynthia and YXZ is abbreviation from my chinese na
 > Bachelor of Management, Marketing Major
 GPA: 3.58/4.00
 
+Essay Paper	: “A Dual Effect of Consumer Self-Confidence towards Word-of-Mouth Production on Consumers in Surabaya”
+
 
 
 
