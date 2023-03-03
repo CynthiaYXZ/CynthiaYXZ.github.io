@@ -47,20 +47,20 @@ Region and project responsibility:
 
 > Southeast Asia and Korea Region, March 2019 – June 2020
 
-#### 🌅 Interest 🌅
+### 🌅 Interest 🌅
 I think it would be boring if I just wrote about my experience, so I think it would be better for me to share some of my interest!
 
 🎾 I like to do sport! such as badminton, cycling and running, but it's so hard to running during cold season, and i'm not really a morning person... :(
 
 ⌛ I like to read! but I hate it when I forget about things that I read! I really need to take a note and start a reading journal. Mostly, I read fiction and self-development book. TMI, research says that, fiction book help you to fall asleep and sleep better!
 
-The currently read now is: News of the world , The Courage to be Disliked (VERY RECOMMENDED) and Atomic Habits 
+#### The currently read now is: News of the world , The Courage to be Disliked (VERY RECOMMENDED) and Atomic Habits 
 
 💡 I like to read research paper! this sounds so boring, but I really like it! Since we can get another fact that might really differ from what we have been think, or we can get an explanation or reason about some behavior or phenomenon
 
 🌱 I’m currently learning, chinese! 
-###### (of course I need to learn this)
-Chinese is hard, but it's very interesting, and useful !
+###### (of course I need to learn this) 
+Chinese is hard, but it's very interesting, and useful!
 
 🌱 (In short-term) I plan to learn, Python!
 It cannot be denied that data is really important now, so, Python! don't forget Excel!
