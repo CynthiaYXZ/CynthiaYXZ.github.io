@@ -14,24 +14,16 @@ In case you wonder my name is Cynthia and YXZ is abbreviation from my chinese na
 
 #### University of Surabaya, Surabaya, Indonesia 	                2014 – 2018
 > Bachelor of Management, Marketing Major
-GPA: 3.58/4.00
+
+> GPA: 3.58/4.00
 
 > Essay Paper	: “A Dual Effect of Consumer Self-Confidence towards Word-of-Mouth Production on Consumers in Surabaya”
 
+##### 🏡 Non-formal Education 🏡
+- ##### Corporate Finance Institute – Data Science Fundamental 	2021
+- ##### ELF Education HSK 2 Preparation 	2021
+- ##### CHHS Surabaya Level 1 Mandarin Course (泗水中中华语学习中心)	2017 - 2018
 
-
-
-
-Bachelor of Management graduates from University of Surabaya, Marketing Management major     2014-2018  
- with more than two years experiences working as marketing manager in tissue paper manufacturer company. I’m familiar with industrial manufacturing process, and management activity such as market analysis for market set up and feasibility check. Currently, I’m pursuing my master degree in Tunghai University, Taiwan. I have interest to deepen knowledge and skill in management, manufacturing, global trade and data science
-
-
-newest test
-another test
-another test to check the github.io
-github.io working?
-
-### Hi there 👋
 
 <!--
 **CynthiaYXZ/CynthiaYXZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
