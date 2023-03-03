@@ -54,7 +54,7 @@ I think it would be boring if I just wrote about my experience, so I think it wo
 
 ⌛ I like to read! but I hate it when I forget about things that I read! I really need to take a note and start a reading journal. Mostly, I read fiction and self-development book. TMI, research says that, fiction book help you to fall asleep and sleep better!
 
-#### The currently read now is: News of the world , The Courage to be Disliked (VERY RECOMMENDED) and Atomic Habits 
+##### The currently read now is: News of the world , The Courage to be Disliked (VERY RECOMMENDED) and Atomic Habits 
 
 💡 I like to read research paper! this sounds so boring, but I really like it! Since we can get another fact that might really differ from what we have been think, or we can get an explanation or reason about some behavior or phenomenon
 
