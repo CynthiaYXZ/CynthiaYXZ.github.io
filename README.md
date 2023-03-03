@@ -7,7 +7,7 @@ In case you wonder my name is Cynthia and YXZ is abbreviation from my chinese na
 ###### this is also a ✨ _special_ ✨ repository because its originally a homework, but I plan to keep it as my personal page, thanks professor for helping us to START !
 
 
-### Let's Start! 🚀
+### So let's Begin! 🚀
 
 
 
