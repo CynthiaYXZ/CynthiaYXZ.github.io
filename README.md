@@ -4,7 +4,7 @@
 
 This is a personalize web for my profile and hopefully I can share some of my work here too!
 In case you wonder my name is Cynthia and YXZ is abbreviation from my chinese name Yáo-XiǎoZhēn 姚小珍 
-###### this is also a ✨ _special_ ✨ repository because its originally a homework, but I plan to keep it as my personal page, thanks professor for helping us to START !
+###### this is also a ✨ _special_ ✨ repository because its originally a homework, but I plan to keep it as my personal page and my learning progress here as well, thanks professor to encourage and help us to START !
 
 
 ### So let's Begin! 🚀
