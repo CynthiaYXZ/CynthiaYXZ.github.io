@@ -58,9 +58,9 @@ I think it would be boring if I just wrote about my experience, so I think it wo
 
 💡 I like to read research paper! this sounds so boring, but I really like it! Since we can get another fact that might really differ from what we have been think, or we can get an explanation or reason about some behavior or phenomenon
 
-🌱 I’m currently learning, chinese! 
+🌱 I’m currently learning, chinese! Chinese is hard, but it's very interesting, and useful!
 ###### (of course I need to learn this) 
-Chinese is hard, but it's very interesting, and useful!
+
 
 🌱 (In short-term) I plan to learn, Python!
 It cannot be denied that data is really important now, so, Python! don't forget Excel!
