@@ -8,7 +8,19 @@ In case you wonder my name is Cynthia and YXZ is abbreviation from my chinese na
 
 
 ### So let's Begin! 🚀
+#### 🏫 Education 🏫
+> Tunghai University, Taichung, Taiwan	2022– Present
+    Master of Global Business Administration, School of Business and Management
 
+> University of Surabaya, Surabaya, Indonesia 	2014 – 2018
+    Bachelor of Management, Marketing Major
+    GPA: 3.58/4.00
+
+
+
+
+Bachelor of Management graduates from University of Surabaya, Marketing Management major     2014-2018  
+ with more than two years experiences working as marketing manager in tissue paper manufacturer company. I’m familiar with industrial manufacturing process, and management activity such as market analysis for market set up and feasibility check. Currently, I’m pursuing my master degree in Tunghai University, Taiwan. I have interest to deepen knowledge and skill in management, manufacturing, global trade and data science
 
 
 newest test
