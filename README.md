@@ -65,3 +65,5 @@ I think it would be boring if I just wrote about my experience, so I think it wo
 🌱 (In short-term) I plan to learn, Python!
 It cannot be denied that data is really important now, so, Python! don't forget Excel!
 
+✨ Ending ✨
+I think these are for now, I will learn more so I can add some design and awesome interface like moving animation or interactive page! See ya!! 🏃🏃
